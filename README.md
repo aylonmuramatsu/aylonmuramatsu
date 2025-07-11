@@ -1,7 +1,124 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="banner" height="200px" />
 </p>
-<h1 align="center">🧠 Aylon Muramatsu — DevLab 🧪</h1>
+<h1 align="center">🧠 Aylon Muramatsu — DevLab 🧪 [en]</h1>
+<p align="center">Where ideas come to life as code.</p>
+
+---
+
+### 🧬 Featured Project
+
+> “If I see a pain, I build a solution. If it exists, I make it better.”
+
+🔍 **reactotron-zustand-plugin**  
+🧠 A plugin 🔌 that connects Zustand to Reactotron. Because seeing your store’s state **shouldn’t be a pain in the ass**.  
+🚀 [View Project](https://github.com/aylonmuramatsu/reactotron-zustand-plugin)
+
+---
+
+### 🏅 Honorable Mention: Blocos de Rua
+
+> **Carnival starts here.**
+
+🎉 **Blocos de Rua**  
+Leading platform for carnival street party schedules.
+
+Featured **6 times as App of the Day** on the App Store.
+
+📈 **Over 1 million concurrent users** during Carnival.  
+Robust, scalable, and offline-first infrastructure.
+
+🔗 [Learn more](https://www.blocosderua.com/)
+
+---
+
+### 🚀 Case: Linktree for Instagram
+
+> **Turn your profile into a smart storefront.**
+
+📱 **ICW Instabook**  
+A tool made for those who want **more than just one link** on Instagram.
+
+- 100% responsive UI, mobile-first focus  
+- Real-time customization (colors, text, buttons)  
+- Analytics integration (coming soon)
+
+🛍️ Perfect for creators, small businesses, and portfolios.  
+🚀 [See the project (Click here!)](https://instabook.icw.tec.br)
+
+---
+
+### 📄 Case: ICW Invoices — Budget Management
+
+> **Create, send, and manage quotes simply and efficiently.**
+
+🧾 **ICW Invoices**  
+A system built to streamline budgeting, focused on:
+
+- Generating quotes by hours or products  
+- Clean and objective interface  
+- Tailored for freelancers, agencies, and small businesses
+
+📤 Make sending quotes fast and professional.  
+🚀 [See the project](https://invoices.icw.tec.br/)
+
+---
+
+### 🧠 Mental Stack
+
+```txt
+🔥 Focus     → Practical solutions for real problems  
+⚙️ Preferred → React Native, Zustand, TypeScript, NestJS, PHP  
+🚫 Avoid     → Overengineering, purposeless code
+```
+
+---
+
+### ⚒️ Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nestjs,mysql,tailwind,git,github,vscode,php&perline=7" />
+</p>
+
+---
+
+### 🧭 Vision
+
+> “If the user doesn’t even notice you solved a problem — you nailed it.”
+
+My code is a tool.  
+My app is a lever.  
+My time is limited — so I focus on what delivers.
+
+---
+
+### 📡 Contact & Connections
+
+| Platform    | Link |
+|-------------|------|
+| 🌐 Portfolio | In progress... |
+| 💼 LinkedIn  | [Aylon Muramatsu](https://www.linkedin.com/in/aylon-muramatsu/) |
+| ✉️ Email     | `oi@icw.tec.br` |
+
+---
+
+### 🗞️ Small Manifesto
+
+```bash
+# Code can be simple or beautiful  
+# But above all, it must be useful  
+# If it serves no purpose, it shouldn’t exist
+```
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+things+that+make+sense...;...and+make+someone's+life+easier." />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="banner" height="200px" />
+</p>
+<h1 align="center">🧠 Aylon Muramatsu — DevLab [pt-br]🧪</h1>
 <p align="center">Onde ideias ganham vida em forma de código.</p>
 
 ---
